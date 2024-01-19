@@ -9,7 +9,7 @@ class Frontpage extends StatefulWidget {
   State<Frontpage> createState() => _FrontpageState();
 }
 
-const String apiKey = "6c433438776b5be4ac86001dc88de74d";
+const String apiKey = "";
 
 class _FrontpageState extends State<Frontpage> {
   String userInput = "";
