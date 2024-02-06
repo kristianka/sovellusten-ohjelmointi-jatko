@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather app</string>
+    <string name="forecast">Forecast</string>
+    <string name="refresh">Refresh</string>
+    <string name="feels_like">Feels like</string>
+    <string name="sunny_icon">Sunny icon</string>
+    <string name="sunny">Sunny</string>
+</resources>

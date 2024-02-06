@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sääsovellus</string>
+    <string name="forecast">Ennuste</string>
+    <string name="refresh">Päivitä</string>
+    <string name="feels_like">Tuntuu kuin</string>
+    <string name="sunny_icon">Aurinkoikoni</string>
+    <string name="sunny">Aurinkoista</string>
+</resources>
